@@ -1,7 +1,3 @@
-# sml-iisc-SiameseGAN
-Updated code for SiameseGAN under TensorFlow 2.x with fixed testing pipeline and extended evaluation metrics (PSNR, SSIM, MAE, MSE, LPIPS) for OCT image denoising.
-
-
 * ###### SiameseGAN – Updated Implementation (TF2 Compatible) 
 
 ## Acknowledgment
